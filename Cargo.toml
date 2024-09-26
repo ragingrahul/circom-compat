@@ -38,7 +38,7 @@ ethers-core = { version = "=2.0.7", default-features = false, optional = true }
 # error handling
 thiserror = "^1.0.37"
 color-eyre = { version = "0.6.2", default-features = false }
-backtrace = { version = "0.3" }
+backtrace = { version = "0.3.48" }
 criterion = "=0.3.6"
 
 cfg-if = "=1.0.0"
