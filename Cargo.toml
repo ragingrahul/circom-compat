@@ -29,8 +29,8 @@ ark-relations = { version = "^0.4.0", default-features = false }
 ark-serialize = { version = "^0.4.2", default-features = false }
 
 # decoding of data
-hex = "=0.4.3"
-byteorder = "=1.4.3"
+hex = "^0.4.3"
+byteorder = "^1.4.3"
 
 # ethereum compat
 ethers-core = { version = "=2.0.7", default-features = false, optional = true }
